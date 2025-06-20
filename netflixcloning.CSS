@@ -1,0 +1,45 @@
+.top nav {
+  overflow: hidden;
+  background-color: #333;
+  border-radius: 15px;
+}
+
+.top nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  align-items: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+.top nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.top nav a.home {
+  background-color: #04AA6D;
+  color: white;
+
+}
+
+#net {
+  text-align: center;
+  border-style: double;
+  border-radius: 20px;
+  border-color: white;
+  padding: 10px;
+  background-color: red;
+  text-decoration-color: whitesmoke;
+}
+
+body {
+  background-image: url(netflixbg.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}

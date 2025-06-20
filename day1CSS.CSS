@@ -1,0 +1,32 @@
+body {
+    width: fit-content;
+    height: fit-content;
+    border: tomato;
+    border-radius: 2px;
+    text-align: center;
+    border-color: black;
+    border-style:dashed
+    position: absolute;
+    font-weight: bold;
+    font-style: italic;
+    font-size: medium;
+    
+
+}
+label{
+    text-align:center;
+    text-decoration: underline;
+    border-radius: 20px;
+    border-color: blue;
+}
+
+
+.center {
+  margin:auto;
+  width:50%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+.center{
+    align-content: center;
+}
